@@ -1,8 +1,8 @@
-# Drink containers holding one litre or less have a £0.25 deposit, and drink containers holding more
-# than one litre have a £0.50 deposit. Write a program that reads the number of containers of each
-# size received from the user. Your program should continue by computing and displaying the refund
-# that will be received for returning those containers. Format the output so that it includes a £ sign
-# and always displays exactly two decimal places.
+'''Drink containers holding one litre or less have a £0.25 deposit, and drink containers holding more
+than one litre have a £0.50 deposit. Write a program that reads the number of containers of each
+size received from the user. Your program should continue by computing and displaying the refund
+that will be received for returning those containers. Format the output so that it includes a £ sign
+and always displays exactly two decimal places.'''
 
 small_container = 0.25
 big_container = 0.5

@@ -1,16 +1,16 @@
-# Consider the software that runs on a self-checkout machine. One task that it must be able to
-# perform is to determine how much change to provide when the shopper pays for a purchase with
-# cash. Write a program that begins by reading a number of pence from the user as an integer.
+'''Consider the software that runs on a self-checkout machine. One task that it must be able to
+perform is to determine how much change to provide when the shopper pays for a purchase with
+cash. Write a program that begins by reading a number of pence from the user as an integer.
 
-# Then your program should compute and display the denominations of the coins that should be used to
-# give that amount of change to the shopper.
+Then your program should compute and display the denominations of the coins that should be used to
+give that amount of change to the shopper.
 
-# The change should be given using as few coins as possible. Assume that the machine is loaded with
-# all types of coins ranging from 1p to £2.
+The change should be given using as few coins as possible. Assume that the machine is loaded with
+all types of coins ranging from 1p to £2.
 
-# Note the machine is able to accept up to £20 in any combinations of currency. Payments in pounds
-# should be converted into pence for processing purposes, i.e. £1 = 100 pence and £20 = 2000 pence.
-# The machine can only give change in coins.
+Note the machine is able to accept up to £20 in any combinations of currency. Payments in pounds
+should be converted into pence for processing purposes, i.e. £1 = 100 pence and £20 = 2000 pence.
+The machine can only give change in coins.'''
 
 userChange = float(input('How much change do I owe ya?  £'))
 
