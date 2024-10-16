@@ -3,8 +3,8 @@ Dogs reach adulthood in approximately two years. As a
 result, some people believe that it is better to count each of the first two human years as
 10.5 dog years, and then count each additional human year as 4 dog years. 
 
-Write a program that implements the conversion from human years to dog years described in the previous
-paragraph. 
+Write a program that implements the conversion from human years to dog years described 
+in the previousparagraph. 
 
 Ensure that your program works correctly for conversions of less than two
 human years and for conversions of two or more human years. Your program should display
